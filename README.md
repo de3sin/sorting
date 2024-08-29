@@ -1,2 +1,2 @@
 # sorting
-Basic Sorting Algorithms Written In C++
+Some Basic Sorting Algorithms Written In C++
